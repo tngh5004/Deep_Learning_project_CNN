@@ -1,4 +1,5 @@
-프로젝트 개요와 코드 부연설명이 적혀있는 블로그 https://ksh950510.tistory.com/28
+프로젝트 개요와 코드 부연설명이 적혀있는 블로그 https://ksh950510.tistory.com/28  
+
 데이터셋 출처 https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets
 
 **프로젝트 제목** : 딥러닝을 이용한 코로나 항체검사
